@@ -13,9 +13,13 @@ Conectar-me com pessoas interessadas em meu trabalho, colaborando ou trocando id
 # 🛠️Tecnologias Utilizadas
 
 ## 🛠️ Tecnologias Utilizadas
-![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML** | Linguagem de marcação para estruturar o conteúdo da web. | [MDN HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
-![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) **CSS** | Estilização de páginas web, responsável pela aparência visual. | [MDN CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) **JavaScript** | Linguagem de programação para tornar as páginas interativas. | [MDN JavaScript](https://developer
+## 🛠️ Tecnologias Utilizadas
+
+| Tecnologia | Descrição | Documentação |
+|------------|-----------|--------------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"> **HTML** | Linguagem de marcação para estruturar o conteúdo da web. | [MDN HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="40"> **CSS** | Estilização de páginas web, responsável pela aparência visual. | [MDN CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"> **JavaScript** | Linguagem de programação para tornar as páginas interativas. | [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 
 
 Ferramentas: Git, VS Code
