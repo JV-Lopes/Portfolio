@@ -12,9 +12,6 @@ Conectar-me com pessoas interessadas em meu trabalho, colaborando ou trocando id
 
 # 🛠️Tecnologias Utilizadas
 
-## 🛠️ Tecnologias Utilizadas
-## 🛠️ Tecnologias Utilizadas
-
 | Tecnologia | Descrição | Documentação |
 |------------|-----------|--------------|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="40"> **HTML** | Linguagem de marcação para estruturar o conteúdo da web. | [MDN HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) |
