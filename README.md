@@ -19,7 +19,13 @@ Conectar-me com pessoas interessadas em meu trabalho, colaborando ou trocando id
 | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"> **JavaScript** | Linguagem de programação para tornar as páginas interativas. | [MDN JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
 
 
-Ferramentas: Git, VS Code
+## 🛠️ Ferramentas Utilizadas
+
+| Ferramenta | Descrição | Documentação |
+|------------|-----------|--------------|
+| <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40"> **Git** | Sistema de controle de versão distribuído. | [Documentação Git](https://git-scm.com/doc) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"> **Visual Studio Code** | Editor de código leve e extensível da Microsoft. | [Documentação VS Code](https://code.visualstudio.com/docs) |
+
 
 # 📬Contato
 
